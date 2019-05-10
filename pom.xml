@@ -18,8 +18,8 @@
 	<description>Demo project for Spring Boot</description>
 
 	<modules>
-		<module>consumer</module>
 		<module>producer</module>
+		<module>consumer</module>
 	</modules>
 
 	<properties>
